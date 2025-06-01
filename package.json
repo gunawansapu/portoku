@@ -1,7 +1,7 @@
 {
   "name": "gunawan-saputra-portofolio",
   "version": "0.1.0",
-  "homepage": "https://gunawancsporto.netlify.app/gunawansapu",
+  "homepage": "https://gunawancsportofolio.netlify.app/gunawansapu",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

@@ -124,7 +124,7 @@ const Skills = () => {
     <Container id="skills">
       <Wrapper>
         <Title>Skills</Title>
-        <Desc>Here are some of my skills on which I have been working on for the past 2 years.
+        <Desc>I possess strong expertise in building front-end web applications using React.js. With a deep understanding of core React concepts like components, state management, and props, I am adept at developing interactive, responsive, and efficient user interfaces. I am skilled in translating complex UI/UX designs into clean, functional code, ensuring an optimal user experience across various devices.
         </Desc>
         <SkillsContainer>
           {skills.map((skill) => (

@@ -169,7 +169,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://scontent-cgk1-2.xx.fbcdn.net/v/t39.30808-6/309190765_219112487122690_5047671643530578930_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sWpQ9KDbydAQ7kNvwGKFnJc&_nc_oc=AdmN6CSl8hdeYDFs_q_JK2TYG7XXSon8JIqsm-LSPhbElxwyX8oVbhB6ld0tWI4iRJ8&_nc_zt=23&_nc_ht=scontent-cgk1-2.xx&_nc_gid=Y9JvZN4wNhhcyBDCqtWUxg&oh=00_AfL2lW9CBIkNQJVa4hMAXigd3wrwiBf4itJkwiRXCp3haA&oe=68373C4D",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsr9Mw6ShErd_PfDO9x2w33_1fOJaDxgpgbw&s",
     role: "BTNG DNCC Divisi Web",
     company: "Udinus",
     date: "September 2023",
@@ -267,7 +267,7 @@ export const projects = [
       "React Js",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
+    github: "https://github.com/gunawansapu/villa-agency",
     webapp: "https://themewagon.github.io/VillaAgency/index.html",
   },
   {
@@ -280,7 +280,7 @@ export const projects = [
       "https://raw.githubusercontent.com/gunawansapu/sertifikat/main/Screenshot%20(307).png",
     tags: ["HTML", "CSS", "JavaScript",],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
+    github: "https://github.com/gunawansapu/earphone_website",
     webapp: "https://webdesignmastery.github.io/Headphones_17-04-24/",
     member: [
       {
@@ -306,7 +306,7 @@ export const projects = [
       "Bootstrap",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
+    github: "https://github.com/gunawansapu/youtube-clone",
     webapp: "https://harshk8853.github.io/youtubeclone/#",
   },
  
@@ -320,7 +320,7 @@ export const projects = [
       "https://raw.githubusercontent.com/gunawansapu/sertifikat/main/Screenshot%20(309).png",
     tags: ["HTML", "CSS", "JavaScript",],
     category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+    github: "https://github.com/gunawansapu/az-news",
     webapp: "https://themewagon.github.io/aznews/",
   },
   {
@@ -333,7 +333,7 @@ export const projects = [
       "https://raw.githubusercontent.com/gunawansapu/sertifikat/main/Screenshot%20(310).png",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
+    github: "https://github.com/gunawansapu/dashrdark",
     webapp: "https://themewagon.github.io/dashdarkX#!",
   },
 ];

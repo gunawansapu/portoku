@@ -145,7 +145,7 @@ const Contact = () => {
     <Container>
       <Wrapper>
         <Title>Contact</Title>
-        <Desc>Jangan ragu untuk menghubungi saya jika ada pertanyaan atau peluang yang ingin didiskusikan!</Desc>
+        <Desc>Please feel free to contact me if you have any questions or opportunities you'd like to discuss!</Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Email Me 🚀</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
